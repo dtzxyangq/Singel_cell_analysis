@@ -1,0 +1,6 @@
+cellranger count --id=HCC \
+--transcriptome=/home/qyang/software/biosoft/ref-cellranger/refdata-cellranger-GRCh38-3.0.0 \
+--fastqs=/home/qyang/projects/single_cell_20190407/ANCBJ181385_PM-BJ181385-01_2019-03-27/Cleandata/HCC \
+--sample=HCC
+
+
